@@ -1,0 +1,26 @@
+<torrent_config 
+    run_path="Stasius_Game"
+    notice_ver="0" 
+    notice_url="http://www.stasiusgames.com/browser/launcher/"
+    notice_width="671"
+    notice_height="600"
+    cur_patcher_path="Client_Autopatch.exe"
+    new_patcher_path="Client_Autopatch.bin"
+    new_patcher_crc32="">
+    <foreground_patch crcpatch_url="http://www.stasiusgames.com/browser/" crcversion="1.0"/> 
+    <!--
+    -->
+
+    <!--HOW TO ADD ALTERNATIVE MIRRORS
+    <foreground_patch crcpatch_url="http:// IP /browser/" crcversion="0.0.0.1"/> 
+    -->
+
+    <!--HOW TO DELETE FILES-->
+	<!--<delete_info path="arquivopradeletar.epk"/> -->
+
+    
+    <!--
+    <delete_info path="randpath"/>
+    -->
+
+</torrent_config>
